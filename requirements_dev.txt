@@ -7,7 +7,7 @@ tox==2.3.1
 coverage==4.1
 Sphinx==1.4.8
 cryptography==1.5.2
-PyYAML==3.11
+PyYAML==3.12
 requests>=2.11.1
 ansicolors>=1.0.2
 PyYAML>=3.12
